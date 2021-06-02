@@ -27,4 +27,4 @@ soupsieve==1.9.5
 sqlparse==0.3.0
 tig==0.0.1
 tqdm==4.36.1
-urllib3==1.24.2
+urllib3==1.26.5
